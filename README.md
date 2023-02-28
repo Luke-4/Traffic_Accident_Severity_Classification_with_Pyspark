@@ -20,6 +20,10 @@
      - Evaluate the model using F1 Score, True positive rate, False positive rate, Precison, Recall, and Hamming Loss 
 3. Vizualizations accidents 2016-2021
    - Tableau visualizations of the data 
+      - Top 5 cities with most accidents 
+      - Total number of accidents per Year, Month, and Weekday
+      - Number of accidents per weather conditon and temperature in Celsius 
+      - Impact of road elements in the number of accidents 
+      - Dynamic time series visualization of number of accidents per month in each state
 
 Link to the original Dataset: [US Accidents (2016 - 2021)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents).
-
