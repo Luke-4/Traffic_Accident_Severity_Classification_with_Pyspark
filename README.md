@@ -27,4 +27,3 @@
       - Dynamic time series visualization of number of accidents per month in each state
 
 Link to the original Dataset: [US Accidents (2016 - 2021)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents).
-![image](https://github.coventry.ac.uk/storage/user/2980/files/e59f907c-7450-44ce-b9a5-19a67aa2f608)
