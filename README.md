@@ -24,6 +24,6 @@
       - Total number of accidents per Year, Month, and Weekday
       - Number of accidents per weather condition and temperature in Celsius 
       - Impact of road elements in the number of accidents 
-      - Dynamic time series visualization of number of accidents per month in each state
+      - Dynamic time series visualization of the number of accidents per month in each state
 
 Link to the original Dataset: [US Accidents (2016 - 2021)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents).
